@@ -1,4 +1,4 @@
-# WebApp Ativos Brasil
+# WebApp Ativos Brazil
 
 This is a Shiny web application that allows you to analyze stock data for Brazilian assets. The application retrieves data from Yahoo Finance and provides interactive charts for the selected asset.
 
