@@ -68,11 +68,10 @@ If you want to follow this list of Brazilian assets, you can go to (https://gabr
 - Specify the date range for the data.
 - The application will retrieve the stock data and display an interactive chart.
 
+![](webapp_ativos_brazil.gif)
 
+## About this project 
 
-## Author
-
-- Gabriel Melo
-- Email: gabriel-melo@outlook.com
+This project was developed as part of the Data Science course of the Master's Degree in Administration at the Postgraduate Programme in Administration at the Fluminense Federal University (PPGAd-UFF).
 
 Feel free to contact the author for any questions or feedback.
