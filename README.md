@@ -20,6 +20,8 @@ Make sure to install these packages before running the application.
 
 3. Run the following code in R to launch the application:
 
+4. You can edit using your own list of assets or portfolio that you want to track. Simply create your own list in an excel file such as "YahooTickersBrazil.xlsx".
+
 ```R
 library(shiny)
 library(quantmod)
@@ -59,6 +61,8 @@ shinyApp(ui, server)
 ```
 
 ## Usage
+
+If you want to follow this list of Brazilian assets, you can go to (https://gabrielmelo.shinyapps.io/shiny_webapp_finances/) and use my app.
 
 - Select the desired asset from the dropdown list.
 - Specify the date range for the data.
